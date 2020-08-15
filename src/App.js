@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <img src={bg} alt="test" />
+      <img src={bg} alt="t" />
     </>
   );
 }
