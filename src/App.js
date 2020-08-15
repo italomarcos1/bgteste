@@ -1,7 +1,7 @@
 import React from "react";
 import GlobalStyle from "./styles";
 
-import bg from "./e.png";
+import bg from "./img.png";
 
 function App() {
   return (
